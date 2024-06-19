@@ -14,10 +14,11 @@ Extracting pixel intensity of two different modal images at the same horizontal 
 
 <div align=center>
 	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/6a8af0ae-99a7-44f8-9642-3ce349fb6e73"/>
+
 </div>
 
 <div align=center>
-	<img src="(https://github.com/ImageVisioner/Paper_Tools/assets/102503666/7cb245fa-1b92-4cc5-8cd6-dc401c5fdee3"/>
+	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/7cb245fa-1b92-4cc5-8cd6-dc401c5fdee3"/>
 </div>
 
 
