@@ -17,8 +17,9 @@ Extracting pixel intensity of two different modal images at the same horizontal 
 </div>
 
 <div align=center>
-	<img src="(https://github.com/ImageVisioner/Paper_Tools/assets/102503666/dcadbfb4-ea76-43d8-8a83-022e1fa67b83"/>
+	<img src="(https://github.com/ImageVisioner/Paper_Tools/assets/102503666/7cb245fa-1b92-4cc5-8cd6-dc401c5fdee3"/>
 </div>
+
 
 We provide the function of uniformly zooming in on local details. And save it locally to enable efficient pixel alignment. It can be used for visual display of tasks such as *image fusion* and *super-resolution reconstruction*.   
 
