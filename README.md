@@ -11,7 +11,11 @@ In order to simplify the efficiency of researchers, we try to choose matlab as t
 Extracting pixel intensity of two different modal images at the same horizontal line using interactivity.We provide expressions in both horizontal and vertical directions.  
 
 **AutoZoom**   
-![image](https://github.com/ImageVisioner/Paper_Tools/assets/102503666/6a8af0ae-99a7-44f8-9642-3ce349fb6e73)
+
+<div align=center>
+	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/6a8af0ae-99a7-44f8-9642-3ce349fb6e73"/>
+</div>
+
 
 We provide the function of uniformly zooming in on local details. And save it locally to enable efficient pixel alignment. It can be used for visual display of tasks such as image fusion and super-resolution reconstruction.   
 
