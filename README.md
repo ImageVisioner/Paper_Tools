@@ -24,6 +24,10 @@ Extracting pixel intensity of two different modal images at the same horizontal 
 
 We provide the function of uniformly zooming in on local details. And save it locally to enable efficient pixel alignment. It can be used for visual display of tasks such as *image fusion* and *super-resolution reconstruction*.   
 
+**Fig_Zoom**   
+<div align=center>
+	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/e0b5183e-5414-4b93-8253-5232869abea1"/>
+</div>
 
 
 
