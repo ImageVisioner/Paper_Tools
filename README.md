@@ -28,7 +28,9 @@ We provide the function of uniformly zooming in on local details. And save it lo
 <div align=center>
 	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/e0b5183e-5414-4b93-8253-5232869abea1"/>
 </div>
+Using interactive methods to enlarge the local area of the Fig image.   
 
+ 
 
 
 
