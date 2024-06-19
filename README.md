@@ -4,7 +4,8 @@ Some tools can make your SCI paper more attractive.
 **Note**  
 In order to simplify the efficiency of researchers, we try to choose matlab as the development tool for this repo, which in turn avoids annoying problems such as environment configuration.     
 
-*draw_line* 
-![Uploading 0a9e0fb7f77e87e6795a435b160a5ea.png…]()
+**draw_line** 
+![81364a683571acc2a4f3e0e9058b1e2](https://github.com/ImageVisioner/Paper_Tools/assets/102503666/5f3c9c1b-397b-46ce-87bd-4656fb1e5ae1)   
+Extracting pixel intensity of two different modal images at the same horizontal line using interactivity    
 
 
