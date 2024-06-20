@@ -31,7 +31,11 @@ We provide the function of uniformly zooming in on local details. And save it lo
 Using interactive methods to enlarge the local area of the Fig image.   
 
  
-
+**fig2data**   
+<div align=center>
+	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/6e34dafd-7d7b-4b13-851c-32ff983e7945"/>
+</div>
+Using interactive methods to enlarge the local area of the Fig image.     
 
 
 
