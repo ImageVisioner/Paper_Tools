@@ -35,8 +35,8 @@ Using interactive methods to enlarge the local area of the Fig image.
 <div align=center>
 	<img src="https://github.com/ImageVisioner/Paper_Tools/assets/102503666/6e34dafd-7d7b-4b13-851c-32ff983e7945"/>
 </div>
-Using interactive methods to enlarge the local area of the Fig image.     
-
+   
+If you forget the fig data, it's okay. This tool will help you read the 2d/3d Fig data  
 
 
 
