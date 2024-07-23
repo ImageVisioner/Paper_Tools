@@ -2,7 +2,7 @@
 Some tools can make your SCI paper more attractive and interseting.   
 
 **contact**   
-Email:ImageVisioner@outloo.com    
+Email:ImageVisioner@outlook.com    
 
 
 **Note**  
